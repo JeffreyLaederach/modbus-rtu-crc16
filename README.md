@@ -1,6 +1,6 @@
 # Overview
 
-**This repository is for testing and implementing the Modbus RTU CRC16 checksum calculation to detect errors or differences in bytes transmitted via serial RS-485**
+**This repository is a compilation of implementions of the Modbus RTU CRC-16 checksum calculation in numerous programming languages to detect errors or changes in bytes transmitted via serial RS-485**
 
 ## Useful Links:
 
