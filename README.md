@@ -6,4 +6,4 @@
 
 * [Compute Modbus RTU CRC](https://ctlsys.com/support/how_to_compute_the_modbus_rtu_message_crc/)
 * [Modbus Protocol Overview](https://www.modbustools.com/modbus.html)
-* [Online CRC Calculator](www.sunshine2k.de/coding/javascript/crc/crc_js.html)
+* [Online CRC Calculator](https://www.sunshine2k.de/coding/javascript/crc/crc_js.html)
